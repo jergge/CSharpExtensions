@@ -1,4 +1,4 @@
-# C sharp Extensions
+# C Sharp Extensions
 
 A collection of utility functions to extend C#
 
